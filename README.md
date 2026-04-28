@@ -1,6 +1,6 @@
 # Intro
 
-Desenvolvedor Web Júnior FullStack, atuando principalmente com Python, Django e Vue no desenvolvimento de aplicações web.
+Desenvolvedor Web FullStack Júnior, atuando principalmente com Python, Django e Vue no desenvolvimento de aplicações web.
 
 - 🗺️  Moro em Teresina/PI, Brasil.
 - 🎯  Focado em aprimorar minhas habilidades técnicas, aprofundando meus conhecimentos para entregar soluções de qualidade e impacto.
